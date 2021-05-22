@@ -1,0 +1,8 @@
+__pycache__/
+htmlcov/
+.coverage
+.env
+env/
+*.swp
+*.code-workspace
+.vscode

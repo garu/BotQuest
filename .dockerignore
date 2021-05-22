@@ -1,0 +1,11 @@
+.*
+*.md
+data
+tests
+env
+botquest.code-workspace
+Dockerfile
+LICENSE
+htmlcov
+setup.cfg
+**/__pycache__
