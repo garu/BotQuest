@@ -1,6 +1,8 @@
 BotQuest
 =========
 
+[![codecov](https://codecov.io/gh/garu/BotQuest/branch/main/graph/badge.svg?token=ID0ZQCGSTC)](https://codecov.io/gh/garu/BotQuest)
+
 *BotQuest na áááárea galeeeeera!*
 
 Esse bot foi criado para o [Discord do PodQuest](https://discord.gg/6Wrnttn).
