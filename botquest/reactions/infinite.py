@@ -22,7 +22,7 @@ class Reaction(ReactionBase):
 
     async def reaction(self, msg):
         """reage quando mensagem é válida"""
-        found = re.search('infinite|:elizabeth:', msg.content, flags=re.IGNORECASE)
+        found = re.search('infinite|:G_elizabeth:', msg.content, flags=re.IGNORECASE)
         if not found:
             return None
 
